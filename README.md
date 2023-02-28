@@ -1,1 +1,2 @@
 # original_software
+Debian系向けのGUIパッケージインストーラーサンプル
